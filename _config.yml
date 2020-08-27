@@ -21,10 +21,10 @@
 title: Fleeting Thoughts
 email: rza108@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My journey through programming and art
+  My journey through programming and consciousness
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rizasal.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: rza108
+instagram_username: riza_sal
 github_username:  rizasal
 
 # Build settings
